@@ -1,2 +1,5 @@
 font-family=MesloLGS NF
+font-size=14
 theme=iterm2 default
+background-blur=true
+background-opacity=0.5
