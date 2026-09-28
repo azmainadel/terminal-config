@@ -1,5 +1,19 @@
-font-family=MesloLGS NF
-font-size=14
-theme=iterm2 default
-background-blur=true
-background-opacity=0.5
+# font styling
+font-family = 0xProto Nerd Font
+font-size = 13.5
+
+theme = Pro
+
+# background style while on on fullscreen
+background-blur = true
+background-opacity = 0.75
+background-blur-radius = 90 
+
+# mac-specifics
+macos-icon = retro
+fullscreen = true
+
+# custom bindings
+keybind = shift+enter=text:\x1b\r
+keybind = global:ctrl+shift+grave_accent=toggle_quick_terminal
+
