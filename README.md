@@ -2,30 +2,6 @@
 
 This repository contains my personal terminal configuration files for various terminal emulators and shell themes.
 
-## 🖥️ Terminal Emulators
-
-### Ghostty
-- **Location**: `ghostty/config`
-- **Font**: MesloLGS NF (Nerd Font)
-- **Theme**: iTerm2 default theme
-
-### iTerm2
-- **Location**: `iterm2/default.json`
-- **Profile**: Complete iTerm2 profile with custom color scheme
-- **Font**: MesloLGS NF Regular 15pt
-- **Features**:
-  - Custom ANSI color palette
-  - Transparency support (15%)
-  - Powerline glyph support
-  - Blinking cursor
-  - 1000 lines scrollback
-
-## 🎨 Themes
-
-### Powerlevel10k
-- **Location**: `p10k/`
-- Ready for Powerlevel10k theme configurations
-
 ## 🔧 Usage
 
 ### Prerequisites
